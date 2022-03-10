@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.1939909297052154 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 2.1939909297052154 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.31 
+            text = "" 
+        intervals [2]:
+            xmin = 0.31 
+            xmax = 0.64 
+            text = "טאָמעד" 
+        intervals [3]:
+            xmin = 0.64 
+            xmax = 1.28 
+            text = "פֿלײשיק" 
+        intervals [4]:
+            xmin = 1.28 
+            xmax = 2.1939909297052154 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 2.1939909297052154 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.31 
+            text = "" 
+        intervals [2]:
+            xmin = 0.31 
+            xmax = 0.38 
+            text = "ט" 
+        intervals [3]:
+            xmin = 0.38 
+            xmax = 0.44 
+            text = "אָ" 
+        intervals [4]:
+            xmin = 0.44 
+            xmax = 0.51 
+            text = "מ" 
+        intervals [5]:
+            xmin = 0.51 
+            xmax = 0.56 
+            text = "ע" 
+        intervals [6]:
+            xmin = 0.56 
+            xmax = 0.64 
+            text = "ד" 
+        intervals [7]:
+            xmin = 0.64 
+            xmax = 0.72 
+            text = "פֿ" 
+        intervals [8]:
+            xmin = 0.72 
+            xmax = 0.79 
+            text = "ל" 
+        intervals [9]:
+            xmin = 0.79 
+            xmax = 0.88 
+            text = "ײ" 
+        intervals [10]:
+            xmin = 0.88 
+            xmax = 1.02 
+            text = "ש" 
+        intervals [11]:
+            xmin = 1.02 
+            xmax = 1.11 
+            text = "י" 
+        intervals [12]:
+            xmin = 1.11 
+            xmax = 1.28 
+            text = "ק" 
+        intervals [13]:
+            xmin = 1.28 
+            xmax = 2.1939909297052154 
+            text = "" 

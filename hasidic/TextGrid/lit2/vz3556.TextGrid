@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.1490022675736962 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.1490022675736962 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15 
+            text = "די" 
+        intervals [2]:
+            xmin = 0.15 
+            xmax = 0.53 
+            text = "פערד" 
+        intervals [3]:
+            xmin = 0.53 
+            xmax = 0.97 
+            text = "לויפן" 
+        intervals [4]:
+            xmin = 0.97 
+            xmax = 1.1490022675736962 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.1490022675736962 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.12 
+            text = "ד" 
+        intervals [2]:
+            xmin = 0.12 
+            xmax = 0.15 
+            text = "י" 
+        intervals [3]:
+            xmin = 0.15 
+            xmax = 0.29 
+            text = "פ" 
+        intervals [4]:
+            xmin = 0.29 
+            xmax = 0.37 
+            text = "ע" 
+        intervals [5]:
+            xmin = 0.37 
+            xmax = 0.47 
+            text = "ר" 
+        intervals [6]:
+            xmin = 0.47 
+            xmax = 0.53 
+            text = "ד" 
+        intervals [7]:
+            xmin = 0.53 
+            xmax = 0.58 
+            text = "ל" 
+        intervals [8]:
+            xmin = 0.58 
+            xmax = 0.69 
+            text = "ו" 
+        intervals [9]:
+            xmin = 0.69 
+            xmax = 0.74 
+            text = "י" 
+        intervals [10]:
+            xmin = 0.74 
+            xmax = 0.85 
+            text = "פ" 
+        intervals [11]:
+            xmin = 0.85 
+            xmax = 0.97 
+            text = "נ" 
+        intervals [12]:
+            xmin = 0.97 
+            xmax = 1.1490022675736962 
+            text = "" 

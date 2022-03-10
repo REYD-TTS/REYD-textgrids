@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.41 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.41 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27 
+            text = "" 
+        intervals [2]:
+            xmin = 0.27 
+            xmax = 0.76 
+            text = "כאַנע" 
+        intervals [3]:
+            xmin = 0.76 
+            xmax = 1.07 
+            text = "הײסט" 
+        intervals [4]:
+            xmin = 1.07 
+            xmax = 1.23 
+            text = "זי" 
+        intervals [5]:
+            xmin = 1.23 
+            xmax = 1.41 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.41 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27 
+            text = "" 
+        intervals [2]:
+            xmin = 0.27 
+            xmax = 0.42 
+            text = "כ" 
+        intervals [3]:
+            xmin = 0.42 
+            xmax = 0.52 
+            text = "אַ" 
+        intervals [4]:
+            xmin = 0.52 
+            xmax = 0.59 
+            text = "נ" 
+        intervals [5]:
+            xmin = 0.59 
+            xmax = 0.76 
+            text = "ע" 
+        intervals [6]:
+            xmin = 0.76 
+            xmax = 0.79 
+            text = "ה" 
+        intervals [7]:
+            xmin = 0.79 
+            xmax = 0.85 
+            text = "ײ" 
+        intervals [8]:
+            xmin = 0.85 
+            xmax = 0.94 
+            text = "ס" 
+        intervals [9]:
+            xmin = 0.94 
+            xmax = 1.07 
+            text = "ט" 
+        intervals [10]:
+            xmin = 1.07 
+            xmax = 1.11 
+            text = "ז" 
+        intervals [11]:
+            xmin = 1.11 
+            xmax = 1.23 
+            text = "י" 
+        intervals [12]:
+            xmin = 1.23 
+            xmax = 1.41 
+            text = "" 

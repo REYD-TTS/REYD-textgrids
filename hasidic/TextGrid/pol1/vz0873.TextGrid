@@ -1,0 +1,488 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.932993197278911 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 8.932993197278911 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.51 
+            text = "" 
+        intervals [2]:
+            xmin = 0.51 
+            xmax = 0.66 
+            text = "און" 
+        intervals [3]:
+            xmin = 0.66 
+            xmax = 0.76 
+            text = "די" 
+        intervals [4]:
+            xmin = 0.76 
+            xmax = 1.58 
+            text = "חדר־אינגלעך" 
+        intervals [5]:
+            xmin = 1.58 
+            xmax = 1.78 
+            text = "וואס" 
+        intervals [6]:
+            xmin = 1.78 
+            xmax = 2.07 
+            text = "זענען" 
+        intervals [7]:
+            xmin = 2.07 
+            xmax = 2.17 
+            text = "אין" 
+        intervals [8]:
+            xmin = 2.17 
+            xmax = 2.6 
+            text = "שטאט" 
+        intervals [9]:
+            xmin = 2.6 
+            xmax = 2.63 
+            text = "" 
+        intervals [10]:
+            xmin = 2.63 
+            xmax = 3.43 
+            text = "איבערגעבליבן" 
+        intervals [11]:
+            xmin = 3.43 
+            xmax = 3.73 
+            text = "" 
+        intervals [12]:
+            xmin = 3.73 
+            xmax = 4.31 
+            text = "שטייען" 
+        intervals [13]:
+            xmin = 4.31 
+            xmax = 4.49 
+            text = "ביי" 
+        intervals [14]:
+            xmin = 4.49 
+            xmax = 4.82 
+            text = "זיי" 
+        intervals [15]:
+            xmin = 4.82 
+            xmax = 4.96 
+            text = "און" 
+        intervals [16]:
+            xmin = 4.96 
+            xmax = 5.32 
+            text = "ציען" 
+        intervals [17]:
+            xmin = 5.32 
+            xmax = 5.44 
+            text = "די" 
+        intervals [18]:
+            xmin = 5.44 
+            xmax = 5.83 
+            text = "מאמעס" 
+        intervals [19]:
+            xmin = 5.83 
+            xmax = 6.53 
+            text = "שירצן" 
+        intervals [20]:
+            xmin = 6.53 
+            xmax = 7.17 
+            text = "" 
+        intervals [21]:
+            xmin = 7.17 
+            xmax = 7.64 
+            text = "מאמע" 
+        intervals [22]:
+            xmin = 7.64 
+            xmax = 7.76 
+            text = "" 
+        intervals [23]:
+            xmin = 7.76 
+            xmax = 7.89 
+            text = "א" 
+        intervals [24]:
+            xmin = 7.89 
+            xmax = 8.57 
+            text = "צווייער" 
+        intervals [25]:
+            xmin = 8.57 
+            xmax = 8.932993197278911 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 8.932993197278911 
+        intervals: size = 92 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.51 
+            text = "" 
+        intervals [2]:
+            xmin = 0.51 
+            xmax = 0.58 
+            text = "א" 
+        intervals [3]:
+            xmin = 0.58 
+            xmax = 0.62 
+            text = "ו" 
+        intervals [4]:
+            xmin = 0.62 
+            xmax = 0.66 
+            text = "נ" 
+        intervals [5]:
+            xmin = 0.66 
+            xmax = 0.71 
+            text = "ד" 
+        intervals [6]:
+            xmin = 0.71 
+            xmax = 0.76 
+            text = "י" 
+        intervals [7]:
+            xmin = 0.76 
+            xmax = 1.04 
+            text = "ח" 
+        intervals [8]:
+            xmin = 1.04 
+            xmax = 1.1 
+            text = "ד" 
+        intervals [9]:
+            xmin = 1.1 
+            xmax = 1.13 
+            text = "ר" 
+        intervals [10]:
+            xmin = 1.13 
+            xmax = 1.16 
+            text = "א" 
+        intervals [11]:
+            xmin = 1.16 
+            xmax = 1.31 
+            text = "י" 
+        intervals [12]:
+            xmin = 1.31 
+            xmax = 1.4 
+            text = "נ" 
+        intervals [13]:
+            xmin = 1.4 
+            xmax = 1.44 
+            text = "ג" 
+        intervals [14]:
+            xmin = 1.44 
+            xmax = 1.47 
+            text = "ל" 
+        intervals [15]:
+            xmin = 1.47 
+            xmax = 1.52 
+            text = "ע" 
+        intervals [16]:
+            xmin = 1.52 
+            xmax = 1.58 
+            text = "כ" 
+        intervals [17]:
+            xmin = 1.58 
+            xmax = 1.62 
+            text = "ו" 
+        intervals [18]:
+            xmin = 1.62 
+            xmax = 1.65 
+            text = "ו" 
+        intervals [19]:
+            xmin = 1.65 
+            xmax = 1.68 
+            text = "א" 
+        intervals [20]:
+            xmin = 1.68 
+            xmax = 1.78 
+            text = "ס" 
+        intervals [21]:
+            xmin = 1.78 
+            xmax = 1.82 
+            text = "ז" 
+        intervals [22]:
+            xmin = 1.82 
+            xmax = 1.88 
+            text = "ע" 
+        intervals [23]:
+            xmin = 1.88 
+            xmax = 1.94 
+            text = "נ" 
+        intervals [24]:
+            xmin = 1.94 
+            xmax = 2.01 
+            text = "ע" 
+        intervals [25]:
+            xmin = 2.01 
+            xmax = 2.07 
+            text = "נ" 
+        intervals [26]:
+            xmin = 2.07 
+            xmax = 2.11 
+            text = "א" 
+        intervals [27]:
+            xmin = 2.11 
+            xmax = 2.14 
+            text = "י" 
+        intervals [28]:
+            xmin = 2.14 
+            xmax = 2.17 
+            text = "נ" 
+        intervals [29]:
+            xmin = 2.17 
+            xmax = 2.29 
+            text = "ש" 
+        intervals [30]:
+            xmin = 2.29 
+            xmax = 2.37 
+            text = "ט" 
+        intervals [31]:
+            xmin = 2.37 
+            xmax = 2.51 
+            text = "א" 
+        intervals [32]:
+            xmin = 2.51 
+            xmax = 2.6 
+            text = "ט" 
+        intervals [33]:
+            xmin = 2.6 
+            xmax = 2.63 
+            text = "" 
+        intervals [34]:
+            xmin = 2.63 
+            xmax = 2.67 
+            text = "א" 
+        intervals [35]:
+            xmin = 2.67 
+            xmax = 2.71 
+            text = "י" 
+        intervals [36]:
+            xmin = 2.71 
+            xmax = 2.77 
+            text = "ב" 
+        intervals [37]:
+            xmin = 2.77 
+            xmax = 2.81 
+            text = "ע" 
+        intervals [38]:
+            xmin = 2.81 
+            xmax = 2.88 
+            text = "ר" 
+        intervals [39]:
+            xmin = 2.88 
+            xmax = 2.95 
+            text = "ג" 
+        intervals [40]:
+            xmin = 2.95 
+            xmax = 2.99 
+            text = "ע" 
+        intervals [41]:
+            xmin = 2.99 
+            xmax = 3.07 
+            text = "ב" 
+        intervals [42]:
+            xmin = 3.07 
+            xmax = 3.15 
+            text = "ל" 
+        intervals [43]:
+            xmin = 3.15 
+            xmax = 3.21 
+            text = "י" 
+        intervals [44]:
+            xmin = 3.21 
+            xmax = 3.26 
+            text = "ב" 
+        intervals [45]:
+            xmin = 3.26 
+            xmax = 3.43 
+            text = "נ" 
+        intervals [46]:
+            xmin = 3.43 
+            xmax = 3.73 
+            text = "" 
+        intervals [47]:
+            xmin = 3.73 
+            xmax = 3.91 
+            text = "ש" 
+        intervals [48]:
+            xmin = 3.91 
+            xmax = 3.98 
+            text = "ט" 
+        intervals [49]:
+            xmin = 3.98 
+            xmax = 4.11 
+            text = "י" 
+        intervals [50]:
+            xmin = 4.11 
+            xmax = 4.15 
+            text = "י" 
+        intervals [51]:
+            xmin = 4.15 
+            xmax = 4.21 
+            text = "ע" 
+        intervals [52]:
+            xmin = 4.21 
+            xmax = 4.31 
+            text = "נ" 
+        intervals [53]:
+            xmin = 4.31 
+            xmax = 4.37 
+            text = "ב" 
+        intervals [54]:
+            xmin = 4.37 
+            xmax = 4.42 
+            text = "י" 
+        intervals [55]:
+            xmin = 4.42 
+            xmax = 4.49 
+            text = "י" 
+        intervals [56]:
+            xmin = 4.49 
+            xmax = 4.56 
+            text = "ז" 
+        intervals [57]:
+            xmin = 4.56 
+            xmax = 4.73 
+            text = "י" 
+        intervals [58]:
+            xmin = 4.73 
+            xmax = 4.82 
+            text = "י" 
+        intervals [59]:
+            xmin = 4.82 
+            xmax = 4.86 
+            text = "א" 
+        intervals [60]:
+            xmin = 4.86 
+            xmax = 4.9 
+            text = "ו" 
+        intervals [61]:
+            xmin = 4.9 
+            xmax = 4.96 
+            text = "נ" 
+        intervals [62]:
+            xmin = 4.96 
+            xmax = 5.09 
+            text = "צ" 
+        intervals [63]:
+            xmin = 5.09 
+            xmax = 5.2 
+            text = "י" 
+        intervals [64]:
+            xmin = 5.2 
+            xmax = 5.25 
+            text = "ע" 
+        intervals [65]:
+            xmin = 5.25 
+            xmax = 5.32 
+            text = "נ" 
+        intervals [66]:
+            xmin = 5.32 
+            xmax = 5.38 
+            text = "ד" 
+        intervals [67]:
+            xmin = 5.38 
+            xmax = 5.44 
+            text = "י" 
+        intervals [68]:
+            xmin = 5.44 
+            xmax = 5.54 
+            text = "מ" 
+        intervals [69]:
+            xmin = 5.54 
+            xmax = 5.63 
+            text = "א" 
+        intervals [70]:
+            xmin = 5.63 
+            xmax = 5.72 
+            text = "מ" 
+        intervals [71]:
+            xmin = 5.72 
+            xmax = 5.76 
+            text = "ע" 
+        intervals [72]:
+            xmin = 5.76 
+            xmax = 5.83 
+            text = "ס" 
+        intervals [73]:
+            xmin = 5.83 
+            xmax = 6.01 
+            text = "ש" 
+        intervals [74]:
+            xmin = 6.01 
+            xmax = 6.08 
+            text = "י" 
+        intervals [75]:
+            xmin = 6.08 
+            xmax = 6.17 
+            text = "ר" 
+        intervals [76]:
+            xmin = 6.17 
+            xmax = 6.36 
+            text = "צ" 
+        intervals [77]:
+            xmin = 6.36 
+            xmax = 6.53 
+            text = "נ" 
+        intervals [78]:
+            xmin = 6.53 
+            xmax = 7.17 
+            text = "" 
+        intervals [79]:
+            xmin = 7.17 
+            xmax = 7.29 
+            text = "מ" 
+        intervals [80]:
+            xmin = 7.29 
+            xmax = 7.37 
+            text = "א" 
+        intervals [81]:
+            xmin = 7.37 
+            xmax = 7.46 
+            text = "מ" 
+        intervals [82]:
+            xmin = 7.46 
+            xmax = 7.64 
+            text = "ע" 
+        intervals [83]:
+            xmin = 7.64 
+            xmax = 7.76 
+            text = "" 
+        intervals [84]:
+            xmin = 7.76 
+            xmax = 7.89 
+            text = "א" 
+        intervals [85]:
+            xmin = 7.89 
+            xmax = 8.04 
+            text = "צ" 
+        intervals [86]:
+            xmin = 8.04 
+            xmax = 8.09 
+            text = "ו" 
+        intervals [87]:
+            xmin = 8.09 
+            xmax = 8.14 
+            text = "ו" 
+        intervals [88]:
+            xmin = 8.14 
+            xmax = 8.25 
+            text = "י" 
+        intervals [89]:
+            xmin = 8.25 
+            xmax = 8.36 
+            text = "י" 
+        intervals [90]:
+            xmin = 8.36 
+            xmax = 8.42 
+            text = "ע" 
+        intervals [91]:
+            xmin = 8.42 
+            xmax = 8.57 
+            text = "ר" 
+        intervals [92]:
+            xmin = 8.57 
+            xmax = 8.932993197278911 
+            text = "" 
